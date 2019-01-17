@@ -9,8 +9,8 @@ Required packages:
  2. Gurobi (Matlab API) (http://www.gurobi.com/)
  
 To run the project:
- 1. Go to ex directory
- 2. Run My_example_region.m or region.m
- 3. You can modify the "horizon" according to your demand
+ 1. Go to ex directory.
+ 2. Run My_example_region.m or region.m.
+ 3. You can modify the "horizon" according to your demand.
 
 This project is still under development. 
