@@ -1,5 +1,5 @@
 # Classified Multiagent Planning in Different Regions
-This is a demo of the multiagent project in wwhich we model a multiagent system 
+This is a demo of the multiagent project in which we model a multiagent system 
 under counting linear temporal logic specifications and run its simulation. 
 The map of the system is divided into different regions. And in each region, 
 agents are divided into two classes.
